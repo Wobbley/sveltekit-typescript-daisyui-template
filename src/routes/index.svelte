@@ -38,7 +38,7 @@
 			<div
 					class="my-5 text-center font-semibold text-xl shadow-md rounded-xl p-4 border-2 border-blue-400 w-full hover:bg-blue-400 hover:text-white transition-colors duration-200 ease-linear"
 			>
-				Tailwind Docs
+				Daisy UI
 			</div>
 		</a>
 	</div>

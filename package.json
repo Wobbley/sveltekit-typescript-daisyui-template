@@ -1,7 +1,7 @@
 {
 	"name": "create-tailwindkit-ts",
 	"version": "0.3.0",
-	"description": "A Sveltekit starter project with Typescript and Latest version of Tailwind pre-configured",
+	"description": "A Sveltekit starter project with Typescript, Tailwind and Daisy UIpre-configured",
 	"bin": "./bin/cli.cjs",
 	"scripts": {
 		"dev": "svelte-kit dev",
