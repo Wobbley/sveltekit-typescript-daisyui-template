@@ -38,6 +38,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^1.22.0"
+		"daisyui": "^1.24.2"
 	  }
 }
