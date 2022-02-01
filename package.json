@@ -39,5 +39,5 @@
 	"type": "module",
 	"dependencies": {
 		"daisyui": "^1.25.4"
-	  }
+	}
 }
