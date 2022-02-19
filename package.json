@@ -19,6 +19,7 @@
 	"author": "Kamell Perry, Dean Lozo",
 	"license": "MIT",
 	"devDependencies": {
+		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@typescript-eslint/eslint-plugin": "^5.10.1",
 		"@typescript-eslint/parser": "^5.12.0",
